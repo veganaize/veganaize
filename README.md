@@ -15,7 +15,7 @@
 
 ### Projects
 Name                                          | Description
-----------------------------------------------|---------------------------------------------------
+:--------------------------------------------:|---------------------------------------------------
 [HotDIR](https://github.com/veganaize/HotDIR) | Colorized file & folder listing for command prompt
 [type](https://github.com/veganaize/type)     | Command to display contents of text files
 [ASM](https://github.com/veganaize/ASM)       | Assembler stuff

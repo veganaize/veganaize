@@ -11,6 +11,18 @@
 <img src="https://user-images.githubusercontent.com/7102064/162017713-c282a2cb-b550-4c9b-86d9-fe0e724d1c9c.png" width="16px" />
 [webserver.js](https://gist.github.com/veganaize/fc3b9aa393ca688a284c54caf43a3fc3) - Node.js webserver (under 24 lines!)  
 
+---
+
+### Projects
+Name                                          | Description
+----------------------------------------------|---------------------------------------------------
+[HotDIR](https://github.com/veganaize/HotDIR) | Colorized file & folder listing for command prompt
+[type](https://github.com/veganaize/type)     | Command to display contents of text files
+[ASM](https://github.com/veganaize/ASM)       | Assembler stuff
+[C](https://github.com/veganaize/C)           | C programming stuff
+[JAVA](https://github.com/veganaize/JAVA)     | Java stuff
+[JS](https://github.com/veganaize/JS)         | Javascript stuff
+
 <!--
 ### Hi there 👋
 **veganaize/veganaize** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

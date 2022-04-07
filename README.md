@@ -16,12 +16,12 @@
 ### Projects
 Name                                          | Description
 :--------------------------------------------:|---------------------------------------------------
-[HotDIR](https://github.com/veganaize/HotDIR) | Colorized file & folder listing for command prompt
-[type](https://github.com/veganaize/type)     | Command to display contents of text files
-[ASM](https://github.com/veganaize/ASM)       | Assembler stuff
-[C](https://github.com/veganaize/C)           | C programming stuff
-[JAVA](https://github.com/veganaize/JAVA)     | Java stuff
-[JS](https://github.com/veganaize/JS)         | Javascript stuff
+[HotDIR](https://github.com/veganaize/HotDIR) | Colorized file & folder listing for command prompt.
+[type](https://github.com/veganaize/type)     | Command to display contents of text files.
+[ASM](https://github.com/veganaize/ASM)       | Assembler resources & examples.
+[C](https://github.com/veganaize/C)           | C programming resources & examples.
+[JAVA](https://github.com/veganaize/JAVA)     | Java resources & examples.
+[JS](https://github.com/veganaize/JS)         | Javascript resources & examples.
 
 <!--
 ### Hi there 👋

@@ -6,6 +6,8 @@
 ### [Gists](https://gist.github.com/veganaize):
 ⚙️
 [Software Engineering Resources](https://gist.github.com/veganaize/02d87f13240a6a7debfb9a79f07fc2fb) - Currated list of links  
+:joystick:
+[Game/Design Resources](https://gist.github.com/veganaize/b954ceb3870db19362741d0a7d9b9e68)  
 <img src="https://user-images.githubusercontent.com/7102064/162019518-1a3569e6-abaf-45bc-a78b-fa8e604a6e11.png" width="16px" />
 [Icons](https://gist.github.com/veganaize/f9b7eb5556048727930a175e56fe571e) - For use in github markdown  
 <img src="https://user-images.githubusercontent.com/7102064/162017713-c282a2cb-b550-4c9b-86d9-fe0e724d1c9c.png" width="16px" />

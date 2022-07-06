@@ -25,6 +25,8 @@ Name                                          | Description
 [JAVA](https://github.com/veganaize/JAVA)     | Java resources & examples.
 [JS](https://github.com/veganaize/JS)         | Javascript resources & examples.
 
+![image](https://user-images.githubusercontent.com/7102064/177572103-77ee8b0d-d31f-4bcb-9ffa-f9876c20e0ea.png)
+
 <!--
 ### Hi there 👋
 **veganaize/veganaize** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

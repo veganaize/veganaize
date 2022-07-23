@@ -18,6 +18,7 @@
 ### Projects
 Name                                          | Description
 :--------------------------------------------:|---------------------------------------------------
+[Blog Articles](https://github.com/veganaize/Articles/blob/main/README.md) | Programming blog articles.
 [HotDIR](https://github.com/veganaize/HotDIR) | Colorized file & folder listing for command prompt.
 [type](https://github.com/veganaize/type)     | Command to display contents of text files.
 [ASM](https://github.com/veganaize/ASM)       | Assembler resources & examples.
@@ -25,7 +26,6 @@ Name                                          | Description
 [JAVA](https://github.com/veganaize/JAVA)     | Java resources & examples.
 [JS](https://github.com/veganaize/JS)         | Javascript resources & examples.
 
-![image](https://user-images.githubusercontent.com/7102064/177572103-77ee8b0d-d31f-4bcb-9ffa-f9876c20e0ea.png)
 
 <!--
 ### Hi there 👋

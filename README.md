@@ -25,6 +25,7 @@ Name                                          | Description
 [C](https://github.com/veganaize/C)           | C programming resources & examples.
 [JAVA](https://github.com/veganaize/JAVA)     | Java resources & examples.
 [JS](https://github.com/veganaize/JS)         | Javascript resources & examples.
+[PY](https://github.com/veganaize/PY)         | Python resources & examples.
 
 
 <!--

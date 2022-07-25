@@ -1,4 +1,4 @@
-[<img src="https://www.youtube.com/s/desktop/12d6b690/img/favicon_32x32.png" width="36" />](https://www.youtube.com/user/TheMadman420)
+[<img src="https://www.youtube.com/s/desktop/12d6b690/img/favicon_32x32.png" width="36" />](https://www.youtube.com/c/veganaiZe)
 [<img src="https://cdn.sstatic.net/Sites/stackoverflow/company/img/logos/so/so-icon.png" width="48" />](https://stackoverflow.com/users/5039027/veganaize)
 
 ---

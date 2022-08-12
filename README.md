@@ -27,6 +27,7 @@ Name                                          | Description
 [JAVA](https://github.com/veganaize/JAVA)     | Java resources & examples.
 [JS](https://github.com/veganaize/JS)         | Javascript resources & examples.
 [PY](https://github.com/veganaize/PY)         | Python resources & examples.
+[UNIX](https://github.com/veganaize/UNIX)     | Linux & OpenBSD resources.
 
 
 <!--

@@ -1,4 +1,5 @@
-[<img src="https://www.youtube.com/s/desktop/12d6b690/img/favicon_32x32.png" width="36" />](https://www.youtube.com/c/veganaiZe)
+[<img src="https://www.youtube.com/s/desktop/12d6b690/img/favicon_32x32.png" width="36" />](https://www.youtube.com/c/veganaiZe)&nbsp;&nbsp;
+[<img src="https://user-images.githubusercontent.com/7102064/206958552-d4773c34-95c3-4069-b7f6-52aa12287742.png" width="28" />](https://www.twitch.tv/veganaiZe)
 [<img src="https://cdn.sstatic.net/Sites/stackoverflow/company/img/logos/so/so-icon.png" width="48" />](https://stackoverflow.com/users/5039027/veganaize)
 [<img src="https://user-images.githubusercontent.com/7102064/184136641-8abb541a-9b32-482e-a199-f68602c17dcb.png" width="36" />](https://discord.gg/VDDKuFgWDK)
 

@@ -29,6 +29,7 @@ Name                                          | Description
 [JS](https://github.com/veganaize/JS)         | Javascript resources & examples.
 [PY](https://github.com/veganaize/PY)         | Python resources & examples.
 [UNIX](https://github.com/veganaize/UNIX)     | Linux & OpenBSD resources.
+[WinBin](https://github.com/veganaize/WinBin)  | Binary packages for Windows. (openssl, perl, etc.)
 
 
 <!--

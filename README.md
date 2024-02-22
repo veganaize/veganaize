@@ -29,8 +29,9 @@ Name                                          | Description
 [JS](https://github.com/veganaiZe/JS)         | Javascript resources & examples.
 [PY](https://github.com/veganaiZe/PY)         | Python resources & examples.
 [UNIX](https://github.com/veganaiZe/UNIX)     | Linux & OpenBSD resources.
-[WinBin](https://github.com/veganaiZe/WinBin)  | Binary packages for Windows. (openssl, perl, etc.)
+[WinBin](https://github.com/veganaiZe/WinBin) | Binary packages for Windows. (openssl, perl, etc.)
 [TDD](https://github.com/veganaiZe/TDD)       | Test-Driven Development resources.
+[MGMT](https://github.com/veganaiZe/MGMT)     | Management related resources.
 
 
 <!--

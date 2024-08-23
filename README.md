@@ -23,6 +23,11 @@ Name                                          | Description
 [Blog Articles](https://github.com/veganaize/Articles/blob/main/README.md) | Programming blog articles.
 [HotDIR](https://github.com/veganaiZe/HotDIR) | Colorized file & folder listing for command prompt.
 [type](https://github.com/veganaiZe/type)     | Command to display contents of text files.
+
+
+### Resources
+Name                                          | Description
+:--------------------------------------------:|---------------------------------------------------
 [ASM](https://github.com/veganaiZe/ASM)       | Assembler resources & examples.
 [BASIC](https://github.com/veganaiZe/BASIC)   | BASIC resources & examples.
 [C](https://github.com/veganaiZe/C)           | C programming resources & examples.

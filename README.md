@@ -7,22 +7,29 @@
 
 ### [Gists](https://gist.github.com/veganaize):
 ⚙️
-[Software Engineering Resources](https://gist.github.com/veganaize/02d87f13240a6a7debfb9a79f07fc2fb) - Currated list of links  
+[Software Engineering Resources](https://gist.github.com/veganaiZe/02d87f13240a6a7debfb9a79f07fc2fb) - Currated list of links  
 :joystick:
-[Game/Design Resources](https://gist.github.com/veganaize/b954ceb3870db19362741d0a7d9b9e68)  
+[Game/Design Resources](https://gist.github.com/veganaiZe/b954ceb3870db19362741d0a7d9b9e68)  
 <img src="https://user-images.githubusercontent.com/7102064/162019518-1a3569e6-abaf-45bc-a78b-fa8e604a6e11.png" width="16px" />
-[Icons](https://gist.github.com/veganaize/f9b7eb5556048727930a175e56fe571e) - For use in github markdown  
+[Icons](https://gist.github.com/veganaiZe/f9b7eb5556048727930a175e56fe571e) - For use in github markdown  
 <img src="https://user-images.githubusercontent.com/7102064/162017713-c282a2cb-b550-4c9b-86d9-fe0e724d1c9c.png" width="16px" />
-[webserver.js](https://gist.github.com/veganaize/fc3b9aa393ca688a284c54caf43a3fc3) - Node.js webserver (under 24 lines!)  
+[webserver.js](https://gist.github.com/veganaiZe/fc3b9aa393ca688a284c54caf43a3fc3) - Node.js webserver (under 24 lines!)  
 
 ---
 
 ### Projects
-Name                                          | Description
-:--------------------------------------------:|---------------------------------------------------
-[Blog Articles](https://github.com/veganaize/Articles/blob/main/README.md) | Programming blog articles.
-[HotDIR](https://github.com/veganaiZe/HotDIR) | Colorized file & folder listing for command prompt.
-[type](https://github.com/veganaiZe/type)     | Command to display contents of text files.
+Name                                          | Language / Platform | Description
+----------------------------------------------|:-------------------:|------------------------------
+[Blog Articles](https://github.com/veganaiZe/Articles/blob/main/README.md) | Markdown | Programming blog articles.
+[Bible Reader](https://github.com/minimum-viable-product/BibleReader)      | Java     | Bible reading program. (_wip_)
+[HotDIR](https://github.com/veganaiZe/HotDIR) | C / Windows | Colorized file & folder listing for command prompt. (_wip_)
+[more](https://github.com/veganaiZe/more)     | C / Windows | Command to display a screenful of text at a time. (_wip_)
+[proggiePad](https://github.com/veganaiZe/proggiePad)  | ASM / Windows? | Programmer's editor. (_wip_)
+[Sprited](https://github.com/veganaiZe/Sprited)        | QBasic         | Sprite editor. (_wip_)
+[Tortilla Timer](https://github.com/veganaiZe/tortilla-timer) | Java        | Kitchen timer for cooking foods.
+[type](https://github.com/veganaiZe/type)                     | C / Windows | Command to display contents of text files.
+[Webserver.js](https://github.com/veganaiZe/Webserver.js)     | Javascript  | Web server for node.js. (_no external dependencies_)
+[ZELTA](https://github.com/veganaiZe/ZELTA)                   | QBasic      | Legend of Zelda clone. (_wip_)
 
 
 ### Resources

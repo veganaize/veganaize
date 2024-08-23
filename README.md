@@ -20,16 +20,16 @@
 ### Projects
 Name                                          | Language / Platform | Description
 ----------------------------------------------|:-------------------:|------------------------------
-[Blog Articles](https://github.com/veganaiZe/Articles/blob/main/README.md) | Markdown | Programming blog articles.
-[Bible Reader](https://github.com/minimum-viable-product/BibleReader)      | Java     | Bible reading program. (_wip_)
-[HotDIR](https://github.com/veganaiZe/HotDIR) | C / Windows | Colorized file & folder listing for command prompt. (_wip_)
-[more](https://github.com/veganaiZe/more)     | C / Windows | Command to display a screenful of text at a time. (_wip_)
-[proggiePad](https://github.com/veganaiZe/proggiePad)  | ASM / Windows? | Programmer's editor. (_wip_)
-[Sprited](https://github.com/veganaiZe/Sprited)        | QBasic         | Sprite editor. (_wip_)
-[Tortilla Timer](https://github.com/veganaiZe/tortilla-timer) | Java        | Kitchen timer for cooking foods.
-[type](https://github.com/veganaiZe/type)                     | C / Windows | Command to display contents of text files.
-[Webserver.js](https://github.com/veganaiZe/Webserver.js)     | Javascript  | Web server for node.js. (_no external dependencies_)
-[ZELTA](https://github.com/veganaiZe/ZELTA)                   | QBasic      | Legend of Zelda clone. (_wip_)
+[Blog Articles](https://github.com/veganaiZe/Articles/blob/main/README.md) | markdown | Programming blog articles.
+[Bible Reader](https://github.com/minimum-viable-product/BibleReader)      | java     | Bible reading program. (_wip_)
+[HotDIR](https://github.com/veganaiZe/HotDIR) | c / windows | Colorized file & folder listing for command prompt. (_wip_)
+[more](https://github.com/veganaiZe/more)     | c / windows | Command to display a screenful of text at a time. (_wip_)
+[proggiePad](https://github.com/veganaiZe/proggiePad)  | asm / windows? | Programmer's editor. (_wip_)
+[Sprited](https://github.com/veganaiZe/Sprited)        | qbasic         | Sprite editor. (_wip_)
+[Tortilla Timer](https://github.com/veganaiZe/tortilla-timer) | java        | Kitchen timer for cooking foods.
+[type](https://github.com/veganaiZe/type)                     | c / windows | Command to display contents of text files.
+[Webserver.js](https://github.com/veganaiZe/Webserver.js)     | javascript  | Web server for node.js. (_no external dependencies_)
+[ZELTA](https://github.com/veganaiZe/ZELTA)                   | qbasic      | Legend of Zelda clone. (_wip_)
 
 
 ### Resources

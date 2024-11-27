@@ -1,3 +1,5 @@
+<img src="https://github.com/user-attachments/assets/8462320c-b1e5-4818-8558-4c04a568b905" />
+
 [<img src="https://www.youtube.com/s/desktop/12d6b690/img/favicon_32x32.png" width="36" />](https://www.youtube.com/c/veganaiZe)&nbsp;&nbsp;
 [<img src="https://user-images.githubusercontent.com/7102064/206958552-d4773c34-95c3-4069-b7f6-52aa12287742.png" width="28" />](https://www.twitch.tv/veganaiZe)
 [<img src="https://cdn.sstatic.net/Sites/stackoverflow/company/img/logos/so/so-icon.png" width="48" />](https://stackoverflow.com/users/5039027/veganaize)

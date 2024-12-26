@@ -42,6 +42,7 @@ Name                                          | Description
 [C](https://github.com/veganaiZe/C)           | C programming resources & examples.
 [JAVA](https://github.com/veganaiZe/JAVA)     | Java resources & examples.
 [JS](https://github.com/veganaiZe/JS)         | Javascript resources & examples.
+[LUA](https://github.com/veganaize/LUA)       | Lua resources & examples.
 [PASCAL](https://github.com/veganaiZe/PASCAL) | Pascal resources & examples.
 [PY](https://github.com/veganaiZe/PY)         | Python resources & examples.
 [UNIX](https://github.com/veganaiZe/UNIX)     | Linux & OpenBSD resources.

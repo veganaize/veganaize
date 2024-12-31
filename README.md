@@ -35,20 +35,21 @@ Name                                          | Language / Platform | Descriptio
 
 
 ### Resources
-Name                                          | Description
-:--------------------------------------------:|---------------------------------------------------
-[ASM](https://github.com/veganaiZe/ASM)       | Assembler resources & examples.
-[BASIC](https://github.com/veganaiZe/BASIC)   | BASIC resources & examples.
-[C](https://github.com/veganaiZe/C)           | C programming resources & examples.
-[JAVA](https://github.com/veganaiZe/JAVA)     | Java resources & examples.
-[JS](https://github.com/veganaiZe/JS)         | Javascript resources & examples.
-[LUA](https://github.com/veganaize/LUA)       | Lua resources & examples.
-[PASCAL](https://github.com/veganaiZe/PASCAL) | Pascal resources & examples.
-[PY](https://github.com/veganaiZe/PY)         | Python resources & examples.
-[UNIX](https://github.com/veganaiZe/UNIX)     | Linux & OpenBSD resources.
-[WinBin](https://github.com/veganaiZe/WinBin) | Binary packages for Windows. (openssl, perl, etc.)
-[TDD](https://github.com/veganaiZe/TDD)       | Test-Driven Development resources.
-[MGMT](https://github.com/veganaiZe/MGMT)     | Management related resources.
+Name                                            | Description
+:----------------------------------------------:|---------------------------------------------------
+[ASM](https://github.com/veganaiZe/ASM)         | Assembler resources & examples.
+[BASIC](https://github.com/veganaiZe/BASIC)     | BASIC resources & examples.
+[C](https://github.com/veganaiZe/C)             | C programming resources & examples.
+[HASKELL](https://github.com/veganaize/HASKELL) | Haskell programming resources & examples.
+[JAVA](https://github.com/veganaiZe/JAVA)       | Java resources & examples.
+[JS](https://github.com/veganaiZe/JS)           | Javascript resources & examples.
+[LUA](https://github.com/veganaize/LUA)         | Lua resources & examples.
+[PASCAL](https://github.com/veganaiZe/PASCAL)   | Pascal resources & examples.
+[PY](https://github.com/veganaiZe/PY)           | Python resources & examples.
+[UNIX](https://github.com/veganaiZe/UNIX)       | Linux & OpenBSD resources.
+[WinBin](https://github.com/veganaiZe/WinBin)   | Binary packages for Windows. (openssl, perl, etc.)
+[TDD](https://github.com/veganaiZe/TDD)         | Test-Driven Development resources.
+[MGMT](https://github.com/veganaiZe/MGMT)       | Management related resources.
 
 
 <!--

@@ -47,6 +47,7 @@ Name                                            | Description
 [LUA](https://github.com/veganaize/LUA)         | Lua resources & examples.
 [PASCAL](https://github.com/veganaiZe/PASCAL)   | Pascal resources & examples.
 [PY](https://github.com/veganaiZe/PY)           | Python resources & examples.
+[RUBY](https://github.com/veganaize/RUBY)       | Ruby programming resources.
 [UNIX](https://github.com/veganaiZe/UNIX)       | Linux & OpenBSD resources.
 [WinBin](https://github.com/veganaiZe/WinBin)   | Binary packages for Windows. (openssl, perl, etc.)
 [TDD](https://github.com/veganaiZe/TDD)         | Test-Driven Development resources.
